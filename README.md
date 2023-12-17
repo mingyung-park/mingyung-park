@@ -18,9 +18,10 @@ I welcome collaboration, discussions, and feedback from the developer community.
 
 ## Hi there! 👋 I'm Mingyung Park ,aka Kate
 
-I'm a student majoring in ***Scranton Honors Program*** and ***Computer Science*** at Ewha Womans University. 
+I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
 My main interests lie in the realms of machine learning, computer vision, and backend development.
+
 <br/>
 
 ## 🚀 Current Projects
@@ -29,17 +30,25 @@ My main interests lie in the realms of machine learning, computer vision, and ba
 
 Currently diving into the world of computer vision, exploring various aspects of image processing, analysis, and development.
 
+<br/>
+
 **❗Machine Learning Projects**
 
-Actively participating in diverse machine learning projects, including data analysis, predictive modeling.
+Actively participating in diverse machine learning projects, including data analysis, predictive modeling.<br/>
+
+<br/>
 
 **❗Backend Development**
 
 I'm engaged in projects that involve server setup, database management, and API development.
 
+<br/>
+
+
 **❗Algorithm Challenge**
 
-Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.
+Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.<br/>
+
 <br/>
 
 ### 💪 Platformes & Languages
