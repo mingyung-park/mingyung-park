@@ -1,4 +1,64 @@
-### Hi there 👋
+# PARK MIN GYUNG
+### 🤝 Let's Connect!
+
+Feel free to explore my GitHub repositories and Tistory Blog to learn more about these projects and my coding journey. 
+
+I welcome collaboration, discussions, and feedback from the developer community. Let's grow together! 🌱
+
+<div align=center> 
+  
+![Gmail](https://img.shields.io/badge/M11ngyung3@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
+![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)
+
+</div> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyung-park&count_bg=%23FF007B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
+
+----
+
+## Hi there! 👋 I'm Mingyung Park ,aka Kate
+
+I'm a student majoring in ***Scranton Honors Program*** and ***Computer Science*** at Ewha Womans University. 
+
+My main interests lie in the realms of machine learning, computer vision, and backend development.
+<br/>
+
+## 🚀 Current Projects
+
+**❗Computer Vision Study and Development**
+
+Currently diving into the world of computer vision, exploring various aspects of image processing, analysis, and development.
+
+**❗Machine Learning Projects**
+
+Actively participating in diverse machine learning projects, including data analysis, predictive modeling.
+
+**❗Backend Development**
+
+I'm engaged in projects that involve server setup, database management, and API development.
+
+**❗Algorithm Challenge**
+
+Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.
+<br/>
+
+### 💪 Platformes & Languages
+![CPP](https://img.shields.io/badge/C++-00599C.svg?&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&logo=Java&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=Docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&logo=MySQL&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&logo=FastAPI&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&logo=Android&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&logo=Django&logoColor=white)
+
+
+
 
 <!--
 **mingyung-park/mingyung-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +78,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kateking001130)](https://solved.ac/kateking001130/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyung-park&count_bg=%23FF007B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
