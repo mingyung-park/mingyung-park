@@ -6,9 +6,9 @@ Feel free to explore my GitHub repositories and Tistory Blog to learn more about
 I welcome collaboration, discussions, and feedback from the developer community. Let's grow together! 🌱
 
 <div align=center> 
-  
-![Gmail](https://img.shields.io/badge/M11ngyung3@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
-![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white)
+
+![Gmail](https://img.shields.io/badge/m11ngyung3@gmail.com-EA4335.svg?&logo=Gmail&logoColor=white&link=m11ngyung3@gmail.com)
+![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&logo=Tistory&logoColor=white&link=https://he-kate1130.tistory.com/)
 
 </div> 
 
