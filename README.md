@@ -6,11 +6,17 @@ Feel free to explore my GitHub repositories and Tistory Blog to learn more about
 I welcome collaboration, discussions, and feedback from the developer community. Let's grow together! 🌱
 
 <div align=center> 
+  
+<a href="mailto:m11ngyung3@gmail.com">
+  <img src="https://img.shields.io/badge/m11ngyung3@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=m11ngyung3@gmail.com"/>
+</a>
+<a href="[mailto:m11ngyung3@gmail.com](https://he-kate1130.tistory.com/)">
+  <img src="https://img.shields.io/badge/KATE.log-000000?&logo=Tistory&logoColor=white"/>
+</a>
 
-![Gmail](https://img.shields.io/badge/m11ngyung3@gmail.com-EA4335.svg?&logo=Gmail&logoColor=white&link=m11ngyung3@gmail.com)
-![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&logo=Tistory&logoColor=white&link=https://he-kate1130.tistory.com/)
 
 </div> 
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyung-park&count_bg=%23FF007B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
