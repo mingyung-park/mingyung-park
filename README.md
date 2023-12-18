@@ -58,9 +58,9 @@ Constantly challenging myself with algorithm problem-solving and design. Partici
 <br/>
 
 ### 💪 Platformes & Languages
-![CPP](https://img.shields.io/badge/C++-00599C.svg?&logo=C++&logoColor=white)
+![CPP](https://img.shields.io/badge/C++-00599C.svg?&logo=c%2B%2B&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&logo=OpenJDK&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=Docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=white)
@@ -71,7 +71,6 @@ Constantly challenging myself with algorithm problem-solving and design. Partici
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&logo=Android&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&logo=Django&logoColor=white)
-
 
 
 
