@@ -10,7 +10,7 @@ I welcome collaboration, discussions, and feedback from the developer community.
 <a href="mailto:m11ngyung3@gmail.com">
   <img src="https://img.shields.io/badge/m11ngyung3@gmail.com-EA4335?&logo=Gmail&logoColor=white&link=m11ngyung3@gmail.com"/>
 </a>
-<a href="[mailto:m11ngyung3@gmail.com](https://he-kate1130.tistory.com/)">
+<a href="https://he-kate1130.tistory.com/">
   <img src="https://img.shields.io/badge/KATE.log-000000?&logo=Tistory&logoColor=white"/>
 </a>
 
