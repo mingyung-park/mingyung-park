@@ -58,6 +58,7 @@ Constantly challenging myself with algorithm problem-solving and design. Partici
 <br/>
 
 ### 💪 Platformes & Languages
+
 ![CPP](https://img.shields.io/badge/C++-00599C.svg?&logo=c%2B%2B&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&logo=OpenJDK&logoColor=white)
