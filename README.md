@@ -21,7 +21,7 @@ I welcome collaboration, discussions, and feedback from the developer community.
 
 ----
 
-## Hi there! 👋 I'm Mingyung Park ,aka Kate
+## Hi there! 👋 I'm Mingyung Park ,aka Kate.
 
 I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
