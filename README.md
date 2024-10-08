@@ -25,7 +25,7 @@ I welcome collaboration, discussions, and feedback from the developer community.
 
 I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
-Within the Scranton Honors Program, I primarily study formal logic and its applications in law.
+Within the Scranton Honors Program, I primarily study formal logic and law.
 
 My main interests lie in the realms of machine learning, Natural language processing, computer vision.
 
