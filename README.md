@@ -25,7 +25,9 @@ I welcome collaboration, discussions, and feedback from the developer community.
 
 I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
-My main interests lie in the realms of machine learning, computer vision, and backend development.
+Within the Scranton Honors Program, I primarily study formal logic and its applications in law.
+
+My main interests lie in the realms of machine learning, Natural language processing, computer vision.
 
 <br/>
 
@@ -36,30 +38,47 @@ My main interests lie in the realms of machine learning, computer vision, and ba
 
 ## 🚀 Current Projects
 
-**❗Computer Vision Study and Development**
+**❗Honors Thesis(독립 연구) & NLP Study**
+
+I am currently conducting independent research for my honors thesis class focused on the translation of natural language to first-order logic (FOL) using large language models (LLMs). 
+
+This study explores how LLMs can enhance logical reasoning capabilities by effectively interpreting complex natural language queries and converting them into structured logical representations. I aim to investigate the implications of this translation for improving AI understanding and reasoning, as well as its potential applications in fields like law and formal logic.
+
+
+**❗Computer Vision Study**
 
 Currently diving into the world of computer vision, exploring various aspects of image processing, analysis, and development.
 
 <br/>
-
-**❗Machine Learning Projects**
-
-Actively participating in diverse machine learning projects, including data analysis, predictive modeling.<br/>
-
-<br/>
-
-**❗Backend Development**
-
-I'm engaged in projects that involve server setup, database management, and API development.
-
-<br/>
-
 
 **❗Algorithm Challenge**
 
 Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.<br/>
 
 <br/>
+
+## 🚀 Recent Projects
+
+**❗Machine Learning Projects**
+
+Participating in machine learning projects (JARVIS Repository).
+
+Project focuses on detecting Website Fingerprinting attack on Tor network using both closed-word and open-word packet data.
+<br/>
+
+<br/>
+
+**❗Server & Backend (+ Frontend) Development**
+
+I'm engaged in Capstone design projects that involve 
+- server setup (AWS EC2, GCP VM)
+- database management (AWS S3, RDS)
+- AI model serving (Flask)
+- API development (Django Rest Framework).
+- participate in Frontend developement(React native)...
+
+<br/>
+
 
 ### 💪 Platformes & Languages
 
