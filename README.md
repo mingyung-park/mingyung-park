@@ -1,9 +1,9 @@
 # PARK MIN GYUNG
 ### 🤝 Let's Connect!
 
-Feel free to explore my GitHub repositories and Tistory Blog to learn more about these projects and my coding journey. 
+Feel free to explore my GitHub repositories and Tistory Blog to learn more about these projects journey. 
 
-I welcome collaboration, discussions, and feedback from the developer community. Let's grow together! 🌱
+I welcome collaboration, discussions, and feedback from the community. Let's grow together! 🌱
 
 <div align=center> 
   
