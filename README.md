@@ -79,7 +79,7 @@ I'm engaged in Capstone design projects that involve
 - database management (AWS S3, RDS)
 - AI model serving (Flask)
 - API development (Django Rest Framework).
-- participate in Frontend developement(React native)...
+- Contributing with React Native...
 
 <br/>
 
