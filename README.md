@@ -21,7 +21,7 @@ I welcome collaboration, discussions, and feedback from the community. Let's gro
 
 ----
 
-## Hi there! 👋 I'm Mingyung Park ,aka Kate.
+## Hi there! 👋 I'm Mingyung Park.
 
 I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
@@ -66,7 +66,7 @@ Participating in machine learning projects
 ***JARVIS Repository***
 
     Project focuses on detecting Website Fingerprinting attack on Tor network 
-    using both closed-word and open-word packet data.
+    using both closed-world and open-world packet data.
 
 <br/>
 
