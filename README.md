@@ -75,10 +75,10 @@ Participating in machine learning projects
 **❗Server & Backend (+Frontend) Development**
 
 I'm engaged in Capstone design projects that involve 
-- server setup (AWS EC2, GCP VM)
+- server setup (AWS EC2, GCP VM, NGINX)
 - database management (AWS S3, RDS)
 - AI model serving (Flask)
-- API development (Django Rest Framework).
+- API development (Django Rest Framework)
 - Contributing with React Native...
 
 <br/>
