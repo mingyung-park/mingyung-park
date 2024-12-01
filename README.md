@@ -93,10 +93,7 @@ I'm engaged in Capstone design projects that involve
 ![Java](https://img.shields.io/badge/Java-007396.svg?&logo=OpenJDK&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=Docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&logo=MySQL&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&logo=FastAPI&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&logo=Android&logoColor=white)
@@ -105,6 +102,9 @@ I'm engaged in Capstone design projects that involve
 
 
 <!--
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&logo=Spring&logoColor=white)
 **mingyung-park/mingyung-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
