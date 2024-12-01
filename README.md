@@ -40,22 +40,22 @@ My main interests lie in the realms of machine learning, Natural language proces
 ## 🚀 Current Projects
 
 **❗Honors Thesis(독립 연구) & NLP Study**
-
+<!--
 I am currently conducting independent research for my honors thesis class focused on ***the translation of natural language to first-order logic (FOL) using large language models (LLMs)***. 
 
 This study explores how LLMs can enhance logical reasoning capabilities by effectively interpreting complex natural language queries and converting them into structured logical representations. I aim to investigate the implications of this translation for improving AI understanding and reasoning, as well as its potential applications in fields like law and formal logic.
-
+-->
 
 **❗Computer Vision Study**
-
+<!--
 Currently diving into the world of computer vision, exploring various aspects of image processing, analysis, and development.
-
+-->
 <br/>
 
 **❗Algorithm Challenge**
-
+<!--
 Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.<br/>
-
+-->
 <br/>
 
 ## 🚀 Recent Projects
