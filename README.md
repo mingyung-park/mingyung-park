@@ -1,9 +1,4 @@
 # PARK MIN GYUNG
-### 🤝 Let's Connect!
-
-Feel free to explore my GitHub repositories and Tistory Blog to learn more about these projects journey. 
-
-I welcome collaboration, discussions, and feedback from the community. Let's grow together! 🌱
 
 <div align=center> 
   
@@ -19,15 +14,13 @@ I welcome collaboration, discussions, and feedback from the community. Let's gro
 
 
 
-----
-
 ## Hi there! 👋 I'm Mingyung Park.
 
 I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
 
-Within the ***Scranton Honors Program***, I primarily study formal logic and law.
+Within the ***Scranton Honors Program***, I primarily study **formal logic** and **Critical Thinking & Discussion**. 
 
-My main interests lie in the realms of machine learning, Natural language processing, computer vision.
+
 
 <br/>
 
@@ -35,46 +28,35 @@ My main interests lie in the realms of machine learning, Natural language proces
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyung-park&count_bg=%23FF007B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+
 <br/>
 
 ## 🚀 Current Projects
+
+**❗Computer Vision Study**
+
+Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
 
 <br/>
 
 ## 🚀 Recent Projects
 
-**❗Computer Vision Study**
-<!--
-Currently diving into the world of computer vision, exploring various aspects of image processing, analysis, and development.
--->
+**❗Honors Thesis(독립 연구)**
+
+Conducted research on translating natural language (NL) into first-order logic (FOL) using large language models (LLMs). 
+
+Improved translation quality by combining Self-Consistency Prompting with Logical Equivalence Score (LES). The study demonstrated significant performance enhancements compared to Chain of Thought Prompting, evaluated using SentenceBLEU and LES metrics.
+
 <br/>
 
-**❗Machine Learning Projects**
+**❗AI 감정 그림일기 서비스**
 
-Participating in machine learning projects 
+***[FairyTairy Repository](https://github.com/mingyung-park/Fairy-Taiary)***
 
-
-***JARVIS Repository***
-
-    Project focuses on detecting Website Fingerprinting attack on Tor network 
-    using both closed-world and open-world packet data.
-
-
-**❗Algorithm Challenge**
-<!--
-Constantly challenging myself with algorithm problem-solving and design. Participating in algorithm challenges on BaekJoon Online Judge platforms to enhance problem-solving skills and code optimization techniques.<br/>
--->
-
-**❗Honors Thesis(독립 연구)**
-<!--
-I am currently conducting independent research for my honors thesis class focused on ***the translation of natural language to first-order logic (FOL) using large language models (LLMs)***. 
-
-This study explores how LLMs can enhance logical reasoning capabilities by effectively interpreting complex natural language queries and converting them into structured logical representations. I aim to investigate the implications of this translation for improving AI understanding and reasoning, as well as its potential applications in fields like law and formal logic.
--->
-
-**❗Server & Backend (+Frontend) Development**
-
-I'm engaged in Capstone design projects that involve 
+    일기 속 소중한 순간과 감정을 유화 그림으로 담아내는 AI 그림일기 서비스
+    
+Contributed to Capstone design projects with responsibilities including:
 - server setup (AWS EC2, GCP VM, NGINX)
 - database management (AWS S3, RDS)
 - AI model serving (Flask)
@@ -84,18 +66,27 @@ I'm engaged in Capstone design projects that involve
 
 <br/>
 
+**❗Machine Learning Projects**
 
-### 💪 Platformes & Languages
+Participating in machine learning projects 
+
+***[JARVIS Repository](https://github.com/ZERO-black/2023-2ML-Team-JARVIS)***
+
+    Project focuses on Website Fingerprinting Attack on Tor Network 
+    using both closed-world and open-world packet data.
+
+<br/>
+
+---
+
+## 💪 Platformes & Languages
 
 ![CPP](https://img.shields.io/badge/C++-00599C.svg?&logo=c%2B%2B&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&logo=OpenJDK&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=Docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&logo=MySQL&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&logo=FastAPI&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&logo=MongoDB&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&logo=Android&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&logo=Django&logoColor=white)
 
 
