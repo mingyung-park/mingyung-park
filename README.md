@@ -38,6 +38,10 @@ Within the ***Scranton Honors Program***, I primarily study **formal logic** and
 
 Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
 
+**❗3D Vision Study**
+
+
+
 <br/>
 
 ## 🚀 Recent Projects
