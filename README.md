@@ -46,7 +46,9 @@ Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
 
 ## 🚀 Recent Projects
 
-**❗Honors Thesis(독립 연구): Enhancing Logical Equivalence of Natural Language to First-Order Logic Translation with Self-Consistency Prompting**
+**❗Honors Thesis(독립 연구):**
+
+**Enhancing Logical Equivalence of Natural Language to First-Order Logic Translation with Self-Consistency Prompting**
 
 Conducted research on translating natural language (NL) into first-order logic (FOL) using Self-Consistency Prompting. 
 
