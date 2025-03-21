@@ -16,7 +16,7 @@
 
 ## Hi there! 👋 I'm Mingyung Park.
 
-I'm a student majoring in ***Scranton Honors Program -*** ⚖️***Society & Justice*** and 💻***Computer Science*** at Ewha Womans University. 
+I'm a student majoring in 💻***Computer Science*** and ***Scranton Honors Program -*** ⚖️***Society & Justice*** at Ewha Womans University. 
 
 Within the ***Scranton Honors Program***, I primarily study **formal logic** and **Critical Thinking & Discussion**. 
 
