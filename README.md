@@ -12,19 +12,25 @@
 
 </div> 
 
+## Education
+🏫 이화여자대학교 **Computer Science & Engineering(B.S.)**<br/>
 
+CourseWork
+- ```Data structures```
+- ```Algorithm```
+- ```Machine Learning``` 
+- ```Computer Vision``` ...
 
-## Hi there! 👋 I'm Mingyung Park.
+🏫 이화여자대학교 **Scranton Honors Program - Society and Justice(B.A.)** <br/>
 
-I'm a student majoring in 💻***Computer Science*** and ***Scranton Honors Program -*** ⚖️***Society & Justice*** at Ewha Womans University. 
-
-Within the ***Scranton Honors Program***, I primarily study **formal logic** and **Critical Thinking & Discussion**. 
-
-
+CourseWork
+- ```Formal Logics```
+- ```Critical Thinking & Discussion```
+- ```Academic Writing```
+- ```고등 연구``` ...
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyung-park&layout=compact&theme=dracula)
 
 ---
 
@@ -34,7 +40,7 @@ Within the ***Scranton Honors Program***, I primarily study **formal logic** and
 
 **❗Computer Vision Study**
 
-Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
+- Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
 
 **❗3D Vision Study**
 
@@ -48,9 +54,13 @@ Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
 
 **Enhancing Logical Equivalence of Natural Language to First-Order Logic Translation with Self-Consistency Prompting**
 
-Conducted research on translating natural language (NL) into first-order logic (FOL) using Self-Consistency Prompting. 
-
-Improved translation Logical Equivalence by combining Self-Consistency Prompting with LLM self selection process. The study demonstrated significant performance enhancements compared to Chain of Thought Prompting, evaluated using SentenceBLEU and Logical Equivalence Score.
+    Conducted research on translating natural language (NL) into first-order logic (FOL) 
+    using Self-Consistency Prompting. 
+    
+    Improved translation Logical Equivalence by combining Self-Consistency Prompting 
+    with LLM self selection process. 
+    The study demonstrated significant performance enhancements compared to Chain of Thought Prompting, 
+    evaluated using SentenceBLEU and Logical Equivalence Score.
 
 <br/>
 
@@ -60,19 +70,17 @@ Improved translation Logical Equivalence by combining Self-Consistency Prompting
 
     일기 속 소중한 순간과 감정을 유화 그림으로 담아내는 AI 그림일기 서비스
     
-Contributed to Capstone design projects with responsibilities including:
-- server setup (AWS EC2, GCP VM, NGINX)
-- database management (AWS S3, RDS)
-- AI model serving (Flask)
-- API development (Django Rest Framework)
-- Contributing with React Native, Next Js
-- GitActions and Vercel for deployment
+    Contributed to Capstone design projects with responsibilities including:
+    - server setup (AWS EC2, GCP VM, NGINX)
+    - database management (AWS S3, RDS)
+    - AI model serving (Flask)
+    - API development (Django Rest Framework)
+    - Contributing with React Native, Next Js
+    - GitActions and Vercel for deployment
 
 <br/>
 
 **❗Machine Learning Projects**
-
-Participating in machine learning projects 
 
 ***[JARVIS Repository](https://github.com/ZERO-black/2023-2ML-Team-JARVIS)***
 
