@@ -48,7 +48,7 @@ CourseWork
 
 ##  Recent Projects
 
-**❗Honors Thesis(독립 연구):**
+**❗Honors Thesis(독립 연구)**
 
 **Enhancing Logical Equivalence of Natural Language to First-Order Logic Translation with Self-Consistency Prompting**
 
@@ -78,7 +78,7 @@ CourseWork
 
 <br/>
 
-**❗Machine Learning Projects**
+**❗Machine Learning**
 
 ***[JARVIS Repository](https://github.com/ZERO-black/2023-2ML-Team-JARVIS)***
 
