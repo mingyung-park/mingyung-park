@@ -26,8 +26,6 @@ Within the ***Scranton Honors Program***, I primarily study **formal logic** and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyung-park&layout=compact&theme=dracula)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingyung-park&count_bg=%23FF007B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
 
 <br/>
@@ -78,7 +76,7 @@ Participating in machine learning projects
 
 ***[JARVIS Repository](https://github.com/ZERO-black/2023-2ML-Team-JARVIS)***
 
-    Project focuses on Website Fingerprinting Attack on Tor Network 
+    Website Fingerprinting Attack on Tor Network 
     using both closed-world and open-world packet data.
 
 <br/>
