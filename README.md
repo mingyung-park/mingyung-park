@@ -29,26 +29,24 @@ CourseWork
 - ```Academic Writing```
 - ```고등 연구``` ...
 
-<br/>
 
-
----
 
 <br/>
 
-## 🚀 Current Projects
+## Current Projects
 
 **❗Computer Vision Study**
 
 - Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
+  
 
-**❗3D Vision Study**
+**3D Vision Study**
 
 
 
 <br/>
 
-## 🚀 Recent Projects
+##  Recent Projects
 
 **❗Honors Thesis(독립 연구):**
 
