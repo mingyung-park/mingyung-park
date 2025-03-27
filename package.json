@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mingyung-park/mingyung-park/issues"
   },
-  "homepage": "https://github.com/mingyung-park/mingyung-park#readme"
+  "homepage": "https://github.com/mingyung-park/mingyung-park#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
 }
