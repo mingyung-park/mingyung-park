@@ -13,6 +13,7 @@
 🏫 이화여자대학교 **Computer Science & Engineering(B.S.)**  
 
 CourseWork
+
     Data structures
     Algorithm
     Machine Learning
@@ -21,6 +22,7 @@ CourseWork
 🏫 이화여자대학교 **Scranton Honors Program - Society and Justice(B.A.)**  
 
 CourseWork
+
     Formal Logics
     Critical Thinking & Discussion
     Academic Writing
