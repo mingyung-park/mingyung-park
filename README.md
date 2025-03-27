@@ -13,18 +13,18 @@
 🏫 이화여자대학교 **Computer Science & Engineering(B.S.)**  
 
 CourseWork
-    - Data structures
-    - Algorithm
-    - Machine Learning
-    - Computer Vision ...
+    Data structures
+    Algorithm
+    Machine Learning
+    Computer Vision ...
 
 🏫 이화여자대학교 **Scranton Honors Program - Society and Justice(B.A.)**  
 
 CourseWork
-    - Formal Logics
-    - Critical Thinking & Discussion
-    - Academic Writing
-    - 고등 연구 ...
+    Formal Logics
+    Critical Thinking & Discussion
+    Academic Writing
+    고등 연구 ...
 
 ## 📕 Latest Blog Posts
 <ul><li><a href='https://he-kate1130.tistory.com/138' target='_blank'>[Computer Vision/OpenCV] 9. Histogram Matching</a></li><li><a href='https://he-kate1130.tistory.com/137' target='_blank'>[Computer Vision/OpenCV] 8. Histogram Equalization</a></li><li><a href='https://he-kate1130.tistory.com/136' target='_blank'>[Computer Vision/OpenCV] 7. Histogram Stretching</a></li><li><a href='https://he-kate1130.tistory.com/135' target='_blank'>[Computer Vision/OpenCV] 6. Histogram</a></li><li><a href='https://he-kate1130.tistory.com/134' target='_blank'>[Computer Vision/OpenCV] 5. Pixel-wise Arithmetic Operation</a></li><li><a href='https://he-kate1130.tistory.com/131' target='_blank'>[Computer Vision/OpenCV] 4. 2D Geometric Transformation</a></li><li><a href='https://he-kate1130.tistory.com/130' target='_blank'>[Computer Vision/OpenCV] 3. Image Interpolation</a></li><li><a href='https://he-kate1130.tistory.com/129' target='_blank'>[Computer Vision/OpenCV] 2. Image Resolution</a></li><li><a href='https://he-kate1130.tistory.com/128' target='_blank'>[Computer Vision/OpenCV] 1. Image &amp; Sampling</a></li><li><a href='https://he-kate1130.tistory.com/132' target='_blank'>[Computer Vision/OpenCV] 0. 목차</a></li></ul>
