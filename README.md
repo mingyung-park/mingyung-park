@@ -73,7 +73,7 @@ CourseWork
 
 <br/>
 
-**❗Machine Learning**  
+**❗웹사이트 핑거프린팅 공격 모델 프로젝트**  
 ***[JARVIS Repository](https://github.com/ZERO-black/2023-2ML-Team-JARVIS)***  
 
     Website Fingerprinting Attack on Tor Network 
