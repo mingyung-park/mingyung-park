@@ -40,7 +40,12 @@ jobs:
         run: |
           git config --local user.email "m11ngyung3@gmail.com"
           git config --local user.name "mingyung-park"
-          git pull
+
+          if ! git pull origin main; then
+            echo "🔁 기본 pull 실패, rebase로 재시도합니다..."
+            git pull --rebase origin main
+          fi
+          
           git add .
           git commit -m "Update README.md"
           git push origin main
