@@ -41,10 +41,14 @@ jobs:
           git config --local user.email "m11ngyung3@gmail.com"
           git config --local user.name "mingyung-park"
 
+          git stash --include-untracked
+
           if ! git pull --rebase origin main; then
             echo "🔁 pull --rebase 실패, 강제 병합은 하지 않습니다."
             exit 1
           fi
+          git stash pop --index || echo "스태시가 없습니다."
+
 
           git add .
           git commit -m "Update README.md"
