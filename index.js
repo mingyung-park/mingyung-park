@@ -68,6 +68,7 @@ const parser = new Parser({
 ## Current Projects
 
 **❗Computer Vision Study**
+
 ***[Computer Vision Study Repository](https://github.com/mingyung-park/CV_Study)***  
 
     - Currently taking CS231N: Convolutional Neural Networks for Visual Recognition.
