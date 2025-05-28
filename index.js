@@ -52,7 +52,6 @@ const parser = new Parser({
         
         text += `<ul>`;
         
-        // 최신 10개의 글의 제목과 링크를 추가
         const latestPosts = feed.items.slice(0, 10); // 글이 10개 미만일 때도 안전하게 처리
         latestPosts.forEach(({ title, link }, index) => {
             console.log(`${index + 1}번째 게시물: ${title}`);
@@ -60,8 +59,7 @@ const parser = new Parser({
         });
         
         text += `</ul>`;
-        
-        // text_2 추가하기
+
         text += `
 <br/>
 
